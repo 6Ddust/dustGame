@@ -8,3 +8,16 @@ This game will be play with console.You will control a triangle(just like "△")
 You can walk on "blank"("□")and can not walk on "wall"("■").
 
 You can trigger a trigger by walk over the "trigger block".
+
+
+## what can you do for dustGame?
+
+ * Add annotation for functions.
+
+ * Add new functions.
+ 
+ * Add new blocks.
+ 
+ * Complete the Wiki to help other devolopers.
+ 
+ * Commit issues.
